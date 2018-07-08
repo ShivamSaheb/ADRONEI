@@ -1,2 +1,2 @@
-# AI-ML-Drone
-Drone designed to assess different weather conditions at different altitudes with more capabilities in future developments
+# ADRONEI
+A user friendly AI drone that collects data to help the user navigate the drone.
